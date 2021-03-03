@@ -1,5 +1,5 @@
 '''
--		Operands	Count = 59	System.Collections.Generic.List<string>
+-		Operandss	Count = 59	System.Collections.Generic.List<string>
 		[0]	"def"	string
 		[1]	"compute_hcf"	string
 		[2]	"("	string
